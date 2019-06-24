@@ -1,0 +1,25 @@
+12
+Ade
+1
+Aloe vera juice
+2
+Apple juice
+3
+Beet juice	
+4
+Cantaloupe juice
+5
+Carrot juice
+6
+Celery juice
+7
+Chanh mu
+8
+Cherry juice
+9
+Clam juice
+10
+Cranberry juice
+11
+Coconut water
+12
